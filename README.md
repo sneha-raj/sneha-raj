@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sneha!</h1>
+<h1 align="left">I'm Sneha.</h1>
 <h3 align="left">MS Business Analytics grad student at USC Marshall.:woman_student: Currently working with NoSQL and Python for ML - code coming soon!</h3>
 
 - 🔭 I’m currently working on **a fraud analytics project, NoSQL databases and building my own supervised learning models.**
