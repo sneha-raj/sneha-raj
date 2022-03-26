@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **sneharaj@marshall.usc.edu**
 
-- ⚡ Fun fact - **I love muscle cars!**:racing_car:
+- ⚡ Fun fact - **I love muscle cars and F1!**:racing_car:
 
 
 <h3 align="left">Languages and Tools:</h3>
