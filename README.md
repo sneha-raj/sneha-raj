@@ -1,17 +1,13 @@
-<h1 align="left">I'm Sneha.</h1>
-<h3 align="left">MS Business Analytics grad student at USC Marshall.:woman_student: Currently working with NoSQL and Python for ML - code coming soon!</h3>
+👩‍💻 Sneha Raj – Data Analytics & Engineering | BI & Automation
 
-- 🔭 I’m currently working on **a fraud analytics project, NoSQL databases and building my own supervised learning models.**
+Hi, I’m Sneha 👋 — a strategy-driven data professional skilled in turning raw data into actionable insights. My work blends analytics, engineering, and visualization, and I enjoy building tools that scale across functions — from sales & marketing to operations & strategy.
 
-- 🌱 I’m currently learning **MongoDB, TensorFlow, Scikit Learn...**
+🛠️ Core Skills
 
-- 💬 I'd love to chat about **challenging case studies and data contests.**
+Programming & Data: Python (Pandas, NumPy, Scikit-learn), SQL (Snowflake, Postgres)
 
-- 📫 Reach me at **sneharaj@marshall.usc.edu**
+Visualization & BI: Tableau (row-level security, ETM, advanced calc fields), Power BI, Streamlit, Plotly
 
-- ⚡ Fun fact - **I love muscle cars and F1!**:racing_car:
+Automation & Tools: GitHub, Jira, Jupyter, ServiceNow, APIs, GitHub Copilot
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+Systems Experience: Salesforce CRM, HubSpot, Crossbeam
