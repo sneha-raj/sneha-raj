@@ -1,4 +1,4 @@
-👩‍💻 **Sneha Raj – Data Analytics & Engineering | BI & Automation**
+# 👩‍💻 **Sneha Raj – Data Analytics & Engineering | BI & Automation**
 
 Hi, I’m Sneha 👋 — a strategy-driven data professional skilled in turning raw data into actionable insights. My work blends analytics, engineering, and visualization, and I enjoy building tools that scale across functions — from sales & marketing to operations & strategy.
  
